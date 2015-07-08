@@ -1,0 +1,23 @@
+{
+  "name": "s-sings-Query",
+  "repository": "http://github.com/polyvitamins/s-sings-Query",
+  "description": "Sing Query Element",
+  "version": "0.0.1",
+  "keywords": ["sing","query"],
+  "main": [
+    "dist/sQuery.js"
+  ],
+  "dependencies": {
+    "polyvitamins/S": "master"
+    },
+  "scripts": [
+    "src/sQuery.js"
+  ],
+  "license": "MIT",
+  "remotes": [
+    "github"
+  ],
+  "tags": [
+    "amd"
+  ]
+}
